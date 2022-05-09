@@ -1,5 +1,5 @@
 import {
   TyrianApp
-} from "target/public/main.js";
+} from "./target/public/main.js";
 
-TyrianApp.launch("app");
+TyrianApp.launch("content");

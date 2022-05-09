@@ -5,7 +5,12 @@
     <title>App</title>
   </head>
   <body>
-    <div id="app"></div>
-    <script type="module" src="app.js"></script>
+    <div id="content"></div>
   </body>
+  <script>
+    import {
+      TyrianApp
+    } from "./target/public/main.js";
+    TyrianApp.launch("content");
+  </script>
 </html>
