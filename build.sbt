@@ -1,20 +1,18 @@
 import scala.sys.process._
 import scala.language.postfixOps
-
 import sbtwelcome._
 
 Global / onChangedBuildSource := ReloadOnSourceChanges
-
 ThisBuild / scalafixDependencies += "com.github.liancheng" %% "organize-imports" % "0.5.0"
 
-lazy val myawesomewebapp =
+lazy val tyrian =
   (project in file("."))
     .enablePlugins(ScalaJSPlugin)
-    .settings( // Normal settings
-      name         := "myawesomewebapp",
+    .settings(
+      name         := "tryian",
       version      := "0.0.1",
       scalaVersion := "3.1.2",
-      organization := "myorg",
+      organization := "objektwerks",
       libraryDependencies ++= Seq(
         "io.indigoengine" %%% "tyrian" % "0.3.2",
         "org.scalameta"   %%% "munit"  % "0.7.29" % Test
@@ -37,7 +35,7 @@ lazy val myawesomewebapp =
       }
     )
     .settings( // Welcome message
-      logo := "My Awesome WebApp (v" + version.value + ")",
+      logo := "App (v" + version.value + ")",
       usefulTasks := Seq(
         UsefulTask("", "fastOptJS", "Rebuild the JS (use during development)"),
         UsefulTask("", "fullOptJS", "Rebuild the JS and optimise (use in production)"),
@@ -49,5 +47,4 @@ lazy val myawesomewebapp =
       descriptionColor := scala.Console.WHITE
     )
 
-lazy val code =
-  taskKey[Unit]("Launch VSCode in the current directory")
+lazy val code = taskKey[Unit]("Launch VSCode in the current directory")

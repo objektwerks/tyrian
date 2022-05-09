@@ -1,0 +1,4 @@
+[debug] [tyrian-test] Classpath dependencies List()
+[debug] [tyrian-test] Dependencies from configurations List(tyrian)
+[debug] Bloop wrote the configuration of project 'tyrian-test' to '/Users/tripletail/workspace/tyrian/.bloop/tyrian-test.json'
+[success] Generated .bloop/tyrian-test.json
