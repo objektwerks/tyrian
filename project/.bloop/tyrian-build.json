@@ -20,9 +20,7 @@
             "/Users/tripletail/.sbt/boot/scala-2.12.15/lib/scala-library.jar",
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/sbt-bloop_2.12_1.0/1.5.0/sbt-bloop-1.5.0.jar",
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/sbt-scalajs_2.12_1.0/1.9.0/sbt-scalajs-1.9.0.jar",
-            "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/davidgregory084/sbt-tpolecat_2.12_1.0/0.1.20/sbt-tpolecat-0.1.20.jar",
-            "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/sbt-scalafix_2.12_1.0/0.9.31/sbt-scalafix-0.9.31.jar",
-            "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/reibitto/sbt-welcome_2.12_1.0/0.2.2/sbt-welcome-0.2.2.jar",
+            "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/davidgregory084/sbt-tpolecat_2.12_1.0/0.3.1/sbt-tpolecat-0.3.1.jar",
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/main_2.12/1.6.2/main_2.12-1.6.2.jar",
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/io_2.12/1.6.0/io_2.12-1.6.0.jar",
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.8.0/jna-5.8.0.jar",
@@ -34,11 +32,6 @@
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/portable-scala/sbt-platform-deps_2.12_1.0/1.0.1/sbt-platform-deps-1.0.1.jar",
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-js-envs_2.12/1.3.0/scalajs-js-envs_2.12-1.3.0.jar",
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-env-nodejs_2.12/1.3.0/scalajs-env-nodejs_2.12-1.3.0.jar",
-            "/Users/tripletail/Library/Caches/Coursier/v1/https/repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.lyranthe.sbt/partial-unification/scala_2.12/sbt_1.0/1.1.2/jars/partial-unification.jar",
-            "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit/5.13.0.202109080827-r/org.eclipse.jgit-5.13.0.202109080827-r.jar",
-            "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/scalafix-interfaces/0.9.31/scalafix-interfaces-0.9.31.jar",
-            "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/geirsson/coursier-small_2.12/1.3.3/coursier-small_2.12-1.3.3.jar",
-            "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/interface/1.0.4/interface-1.0.4.jar",
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/logic_2.12/1.6.2/logic_2.12-1.6.2.jar",
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/actions_2.12/1.6.2/actions_2.12-1.6.2.jar",
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/main-settings_2.12/1.6.2/main-settings_2.12-1.6.2.jar",
@@ -64,8 +57,6 @@
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-logging_2.12/1.1.1/scalajs-logging_2.12-1.1.1.jar",
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar",
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/jimfs/jimfs/1.1/jimfs-1.1.jar",
-            "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/googlecode/javaewah/JavaEWAH/1.1.12/JavaEWAH-1.1.12.jar",
-            "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar",
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-relation_2.12/1.6.2/util-relation_2.12-1.6.2.jar",
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/completion_2.12/1.6.2/completion_2.12-1.6.2.jar",
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/task-system_2.12/1.6.2/task-system_2.12-1.6.2.jar",
@@ -94,6 +85,7 @@
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/checkerframework/checker-qual/3.4.1/checker-qual-3.4.1.jar",
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/errorprone/error_prone_annotations/2.4.0/error_prone_annotations-2.4.0.jar",
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.12/2.6.0/scala-collection-compat_2.12-2.6.0.jar",
+            "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar",
             "/Users/tripletail/.sbt/boot/scala-2.12.15/lib/scala-compiler.jar",
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/jcraft/jsch/0.1.54/jsch-0.1.54.jar",
             "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/eed3si9n/gigahorse-okhttp_2.12/0.5.0/gigahorse-okhttp_2.12-0.5.0.jar",
@@ -167,8 +159,8 @@
                 "import _root_.sbt._",
                 "import _root_.sbt.Keys._",
                 "import _root_.sbt.nio.Keys._",
-                "import _root_.sbt.ScriptedPlugin.autoImport._, _root_.sbt.plugins.JUnitXmlReportPlugin.autoImport._, _root_.sbt.plugins.MiniDependencyTreePlugin.autoImport._, _root_.bloop.integrations.sbt.BloopPlugin.autoImport._, _root_.org.scalajs.sbtplugin.ScalaJSPlugin.autoImport._, _root_.io.github.davidgregory084.TpolecatPlugin.autoImport._, _root_.scalafix.sbt.ScalafixPlugin.autoImport._, _root_.scalafix.sbt.ScalafixTestkitPlugin.autoImport._, _root_.sbtwelcome.WelcomePlugin.autoImport._, _root_.org.portablescala.sbtplatformdeps.PlatformDepsPlugin.autoImport._, _root_.org.lyranthe.sbt.PartialUnification.autoImport._",
-                "import _root_.sbt.plugins.IvyPlugin, _root_.sbt.plugins.JvmPlugin, _root_.sbt.plugins.CorePlugin, _root_.sbt.ScriptedPlugin, _root_.sbt.plugins.SbtPlugin, _root_.sbt.plugins.SemanticdbPlugin, _root_.sbt.plugins.JUnitXmlReportPlugin, _root_.sbt.plugins.Giter8TemplatePlugin, _root_.sbt.plugins.MiniDependencyTreePlugin, _root_.bloop.integrations.sbt.BloopPlugin, _root_.org.scalajs.sbtplugin.ScalaJSJUnitPlugin, _root_.org.scalajs.sbtplugin.ScalaJSPlugin, _root_.io.github.davidgregory084.TpolecatPlugin, _root_.scalafix.sbt.ScalafixPlugin, _root_.scalafix.sbt.ScalafixTestkitPlugin, _root_.sbtwelcome.WelcomePlugin, _root_.org.portablescala.sbtplatformdeps.PlatformDepsPlugin, _root_.org.lyranthe.sbt.PartialUnification"
+                "import _root_.sbt.ScriptedPlugin.autoImport._, _root_.sbt.plugins.JUnitXmlReportPlugin.autoImport._, _root_.sbt.plugins.MiniDependencyTreePlugin.autoImport._, _root_.bloop.integrations.sbt.BloopPlugin.autoImport._, _root_.org.scalajs.sbtplugin.ScalaJSPlugin.autoImport._, _root_.io.github.davidgregory084.TpolecatPlugin.autoImport._, _root_.org.portablescala.sbtplatformdeps.PlatformDepsPlugin.autoImport._",
+                "import _root_.sbt.plugins.IvyPlugin, _root_.sbt.plugins.JvmPlugin, _root_.sbt.plugins.CorePlugin, _root_.sbt.ScriptedPlugin, _root_.sbt.plugins.SbtPlugin, _root_.sbt.plugins.SemanticdbPlugin, _root_.sbt.plugins.JUnitXmlReportPlugin, _root_.sbt.plugins.Giter8TemplatePlugin, _root_.sbt.plugins.MiniDependencyTreePlugin, _root_.bloop.integrations.sbt.BloopPlugin, _root_.org.scalajs.sbtplugin.ScalaJSJUnitPlugin, _root_.org.scalajs.sbtplugin.ScalaJSPlugin, _root_.io.github.davidgregory084.TpolecatPlugin, _root_.org.portablescala.sbtplatformdeps.PlatformDepsPlugin"
             ]
         },
         "test": {
@@ -266,51 +258,17 @@
                 {
                     "organization": "io.github.davidgregory084",
                     "name": "sbt-tpolecat",
-                    "version": "0.1.20",
+                    "version": "0.3.1",
                     "configurations": "default",
                     "artifacts": [
                         {
                             "name": "sbt-tpolecat",
-                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/davidgregory084/sbt-tpolecat_2.12_1.0/0.1.20/sbt-tpolecat-0.1.20.jar"
+                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/davidgregory084/sbt-tpolecat_2.12_1.0/0.3.1/sbt-tpolecat-0.3.1.jar"
                         },
                         {
                             "name": "sbt-tpolecat",
                             "classifier": "sources",
-                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/davidgregory084/sbt-tpolecat_2.12_1.0/0.1.20/sbt-tpolecat-0.1.20-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "ch.epfl.scala",
-                    "name": "sbt-scalafix",
-                    "version": "0.9.31",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "sbt-scalafix",
-                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/sbt-scalafix_2.12_1.0/0.9.31/sbt-scalafix-0.9.31.jar"
-                        },
-                        {
-                            "name": "sbt-scalafix",
-                            "classifier": "sources",
-                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/sbt-scalafix_2.12_1.0/0.9.31/sbt-scalafix-0.9.31-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "com.github.reibitto",
-                    "name": "sbt-welcome",
-                    "version": "0.2.2",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "sbt-welcome",
-                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/reibitto/sbt-welcome_2.12_1.0/0.2.2/sbt-welcome-0.2.2.jar"
-                        },
-                        {
-                            "name": "sbt-welcome",
-                            "classifier": "sources",
-                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/github/reibitto/sbt-welcome_2.12_1.0/0.2.2/sbt-welcome-0.2.2-sources.jar"
+                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/github/davidgregory084/sbt-tpolecat_2.12_1.0/0.3.1/sbt-tpolecat-0.3.1-sources.jar"
                         }
                     ]
                 },
@@ -434,96 +392,6 @@
                     ]
                 },
                 {
-                    "organization": "org.lyranthe.sbt",
-                    "name": "partial-unification",
-                    "version": "1.1.2",
-                    "configurations": "compile",
-                    "artifacts": [
-                        {
-                            "name": "partial-unification",
-                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.lyranthe.sbt/partial-unification/scala_2.12/sbt_1.0/1.1.2/jars/partial-unification.jar"
-                        },
-                        {
-                            "name": "partial-unification",
-                            "classifier": "sources",
-                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.lyranthe.sbt/partial-unification/scala_2.12/sbt_1.0/1.1.2/srcs/partial-unification-sources.jar"
-                        },
-                        {
-                            "name": "partial-unification",
-                            "classifier": "javadoc",
-                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo.scala-sbt.org/scalasbt/sbt-plugin-releases/org.lyranthe.sbt/partial-unification/scala_2.12/sbt_1.0/1.1.2/docs/partial-unification-javadoc.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.eclipse.jgit",
-                    "name": "org.eclipse.jgit",
-                    "version": "5.13.0.202109080827-r",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "org.eclipse.jgit",
-                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit/5.13.0.202109080827-r/org.eclipse.jgit-5.13.0.202109080827-r.jar"
-                        },
-                        {
-                            "name": "org.eclipse.jgit",
-                            "classifier": "sources",
-                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/eclipse/jgit/org.eclipse.jgit/5.13.0.202109080827-r/org.eclipse.jgit-5.13.0.202109080827-r-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "ch.epfl.scala",
-                    "name": "scalafix-interfaces",
-                    "version": "0.9.31",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "scalafix-interfaces",
-                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/scalafix-interfaces/0.9.31/scalafix-interfaces-0.9.31.jar"
-                        },
-                        {
-                            "name": "scalafix-interfaces",
-                            "classifier": "sources",
-                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/ch/epfl/scala/scalafix-interfaces/0.9.31/scalafix-interfaces-0.9.31-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "com.geirsson",
-                    "name": "coursier-small_2.12",
-                    "version": "1.3.3",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "coursier-small_2.12",
-                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/geirsson/coursier-small_2.12/1.3.3/coursier-small_2.12-1.3.3.jar"
-                        },
-                        {
-                            "name": "coursier-small_2.12",
-                            "classifier": "sources",
-                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/geirsson/coursier-small_2.12/1.3.3/coursier-small_2.12-1.3.3-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "io.get-coursier",
-                    "name": "interface",
-                    "version": "1.0.4",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "interface",
-                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/interface/1.0.4/interface-1.0.4.jar"
-                        },
-                        {
-                            "name": "interface",
-                            "classifier": "sources",
-                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/io/get-coursier/interface/1.0.4/interface-1.0.4-sources.jar"
-                        }
-                    ]
-                },
-                {
                     "organization": "org.scala-lang",
                     "name": "scala-library",
                     "version": "2.12.15",
@@ -605,40 +473,6 @@
                             "name": "jimfs",
                             "classifier": "sources",
                             "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/jimfs/jimfs/1.1/jimfs-1.1-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "com.googlecode.javaewah",
-                    "name": "JavaEWAH",
-                    "version": "1.1.12",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "JavaEWAH",
-                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/googlecode/javaewah/JavaEWAH/1.1.12/JavaEWAH-1.1.12.jar"
-                        },
-                        {
-                            "name": "JavaEWAH",
-                            "classifier": "sources",
-                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/googlecode/javaewah/JavaEWAH/1.1.12/JavaEWAH-1.1.12-sources.jar"
-                        }
-                    ]
-                },
-                {
-                    "organization": "org.slf4j",
-                    "name": "slf4j-api",
-                    "version": "1.7.30",
-                    "configurations": "default",
-                    "artifacts": [
-                        {
-                            "name": "slf4j-api",
-                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar"
-                        },
-                        {
-                            "name": "slf4j-api",
-                            "classifier": "sources",
-                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30-sources.jar"
                         }
                     ]
                 },
@@ -1574,6 +1408,23 @@
                             "name": "scala-collection-compat_2.12",
                             "classifier": "sources",
                             "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-collection-compat_2.12/2.6.0/scala-collection-compat_2.12-2.6.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.slf4j",
+                    "name": "slf4j-api",
+                    "version": "1.7.26",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "slf4j-api",
+                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar"
+                        },
+                        {
+                            "name": "slf4j-api",
+                            "classifier": "sources",
+                            "path": "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26-sources.jar"
                         }
                     ]
                 },

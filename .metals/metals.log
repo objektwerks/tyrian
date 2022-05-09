@@ -626,3 +626,73 @@
 2022.05.09 06:48:31 INFO  time: Connected to build server in 32ms[0m
 2022.05.09 06:48:31 INFO  Connected to Build server: Bloop v1.5.0[0m
 2022.05.09 06:48:31 INFO  time: indexed workspace in 0.82s[0m
+2022.05.09 06:49:14 INFO  skipping build import with status 'Installed'[0m
+2022.05.09 06:49:30 INFO  running '/Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/ft/6_7fn0ls0499mm6rb0q4q1hw0000gn/T/metals10380184606211846818/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2022.05.09 06:49:31 INFO  [info] welcome to sbt 1.6.2 (Azul Systems, Inc. Java 17.0.2)[0m
+2022.05.09 06:49:31 INFO  [info] loading global plugins from /Users/tripletail/.sbt/1.0/plugins[0m
+2022.05.09 06:49:32 INFO  [info] loading settings for project tyrian-build-build-build from metals.sbt ...[0m
+2022.05.09 06:49:32 INFO  [info] loading project definition from /Users/tripletail/workspace/tyrian/project/project/project[0m
+2022.05.09 06:49:32 INFO  [info] loading settings for project tyrian-build-build from metals.sbt ...[0m
+2022.05.09 06:49:32 INFO  [info] loading project definition from /Users/tripletail/workspace/tyrian/project/project[0m
+2022.05.09 06:49:33 INFO  [success] Generated .bloop/tyrian-build-build.json[0m
+2022.05.09 06:49:33 INFO  [success] Total time: 1 s, completed May 9, 2022, 6:49:33 AM[0m
+2022.05.09 06:49:33 INFO  [info] loading settings for project tyrian-build from metals.sbt,plugins.sbt ...[0m
+2022.05.09 06:49:33 INFO  [info] loading project definition from /Users/tripletail/workspace/tyrian/project[0m
+2022.05.09 06:49:34 INFO  [success] Generated .bloop/tyrian-build.json[0m
+2022.05.09 06:49:34 INFO  [success] Total time: 1 s, completed May 9, 2022, 6:49:34 AM[0m
+2022.05.09 06:49:34 INFO  [info] loading settings for project tyrian from build.sbt ...[0m
+2022.05.09 06:49:36 INFO  [info] set current project to tryian (in build file:/Users/tripletail/workspace/tyrian/)[0m
+2022.05.09 06:49:36 INFO  [success] Generated .bloop/tyrian.json[0m
+2022.05.09 06:49:36 INFO  [success] Generated .bloop/tyrian-test.json[0m
+2022.05.09 06:49:36 INFO  [success] Total time: 0 s, completed May 9, 2022, 6:49:36 AM[0m
+2022.05.09 06:49:36 INFO  time: ran 'sbt bloopInstall' in 6s[0m
+2022.05.09 06:49:36 INFO  Disconnecting from Bloop session...[0m
+2022.05.09 06:49:36 INFO  Shut down connection with build server.[0m
+2022.05.09 06:49:36 INFO  Shut down connection with build server.[0m
+2022.05.09 06:49:36 INFO  Shut down connection with build server.[0m
+2022.05.09 06:49:36 INFO  Attempting to connect to the build server...[0m
+2022.05.09 06:49:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/tripletail/workspace/tyrian/.metals/bsp.trace.json or /Users/tripletail/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2022.05.09 06:49:36 INFO  Attempting to connect to the build server...[0m
+2022.05.09 06:49:36 INFO  Attempting to connect to the build server...[0m
+2022.05.09 06:49:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/tripletail/workspace/tyrian/project/.metals/bsp.trace.json or /Users/tripletail/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2022.05.09 06:49:36 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/tripletail/workspace/tyrian/project/project/.metals/bsp.trace.json or /Users/tripletail/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2022.05.09 06:49:36 INFO  time: Connected to build server in 34ms[0m
+2022.05.09 06:49:36 INFO  Connected to Build server: Bloop v1.5.0[0m
+2022.05.09 06:49:36 INFO  time: indexed workspace in 0.84s[0m
+2022.05.09 06:49:37 INFO  skipping build import with status 'Installed'[0m
+2022.05.09 06:49:43 INFO  running '/Library/Java/JavaVirtualMachines/zulu-17.jdk/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/ft/6_7fn0ls0499mm6rb0q4q1hw0000gn/T/metals18404022195878016763/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+2022.05.09 06:49:43 INFO  [info] welcome to sbt 1.6.2 (Azul Systems, Inc. Java 17.0.2)[0m
+2022.05.09 06:49:43 INFO  [info] loading global plugins from /Users/tripletail/.sbt/1.0/plugins[0m
+2022.05.09 06:49:44 INFO  [info] loading settings for project tyrian-build-build-build from metals.sbt ...[0m
+2022.05.09 06:49:44 INFO  [info] loading project definition from /Users/tripletail/workspace/tyrian/project/project/project[0m
+2022.05.09 06:49:44 INFO  [info] loading settings for project tyrian-build-build from metals.sbt ...[0m
+2022.05.09 06:49:44 INFO  [info] loading project definition from /Users/tripletail/workspace/tyrian/project/project[0m
+2022.05.09 06:49:46 INFO  [success] Generated .bloop/tyrian-build-build.json[0m
+2022.05.09 06:49:46 INFO  [success] Total time: 1 s, completed May 9, 2022, 6:49:46 AM[0m
+2022.05.09 06:49:46 INFO  [info] loading settings for project tyrian-build from metals.sbt,plugins.sbt ...[0m
+2022.05.09 06:49:46 INFO  [info] loading project definition from /Users/tripletail/workspace/tyrian/project[0m
+2022.05.09 06:49:46 INFO  [success] Generated .bloop/tyrian-build.json[0m
+2022.05.09 06:49:46 INFO  [success] Total time: 1 s, completed May 9, 2022, 6:49:46 AM[0m
+2022.05.09 06:49:48 INFO  [info] loading settings for project tyrian from build.sbt ...[0m
+2022.05.09 06:49:48 INFO  [info] set current project to tryian (in build file:/Users/tripletail/workspace/tyrian/)[0m
+2022.05.09 06:49:48 INFO  [success] Generated .bloop/tyrian-test.json[0m
+2022.05.09 06:49:48 INFO  [success] Generated .bloop/tyrian.json[0m
+2022.05.09 06:49:48 INFO  [success] Total time: 0 s, completed May 9, 2022, 6:49:48 AM[0m
+2022.05.09 06:49:48 INFO  time: ran 'sbt bloopInstall' in 5.59s[0m
+2022.05.09 06:49:48 INFO  Disconnecting from Bloop session...[0m
+2022.05.09 06:49:48 INFO  Shut down connection with build server.[0m
+2022.05.09 06:49:48 INFO  Shut down connection with build server.[0m
+2022.05.09 06:49:48 INFO  Shut down connection with build server.[0m
+2022.05.09 06:49:48 INFO  Attempting to connect to the build server...[0m
+2022.05.09 06:49:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/tripletail/workspace/tyrian/.metals/bsp.trace.json or /Users/tripletail/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2022.05.09 06:49:48 INFO  Attempting to connect to the build server...[0m
+2022.05.09 06:49:48 INFO  Attempting to connect to the build server...[0m
+2022.05.09 06:49:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/tripletail/workspace/tyrian/project/.metals/bsp.trace.json or /Users/tripletail/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2022.05.09 06:49:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/tripletail/workspace/tyrian/project/project/.metals/bsp.trace.json or /Users/tripletail/Library/Caches/org.scalameta.metals/bsp.trace.json[0m
+2022.05.09 06:49:48 INFO  time: Connected to build server in 31ms[0m
+2022.05.09 06:49:48 INFO  Connected to Build server: Bloop v1.5.0[0m
+2022.05.09 06:49:48 INFO  time: indexed workspace in 0.82s[0m
+2022.05.09 06:49:50 INFO  skipping build import with status 'Installed'[0m
+2022.05.09 06:49:50 INFO  skipping build import with status 'Installed'[0m
+2022.05.09 06:49:56 INFO  skipping build import with status 'Installed'[0m
+2022.05.09 06:50:02 INFO  skipping build import with status 'Installed'[0m

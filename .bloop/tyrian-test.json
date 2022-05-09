@@ -40,15 +40,13 @@
                 "-encoding",
                 "utf8",
                 "-deprecation",
-                "-explain-types",
-                "-explain",
                 "-feature",
+                "-unchecked",
                 "-language:experimental.macros",
                 "-language:higherKinds",
                 "-language:implicitConversions",
-                "-unchecked",
-                "-Xfatal-warnings",
-                "-Ykind-projector"
+                "-Ykind-projector",
+                "-Xfatal-warnings"
             ],
             "jars": [
                 "/Users/tripletail/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.1.2/scala3-library_3-3.1.2.jar",
