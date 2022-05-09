@@ -6,6 +6,7 @@ Note
 ----
 >Interesting library. Can't get past this app loading error, though:
 * Uncaught SyntaxError: The requested module './main.js' does not provide an export named 'App' (at (index):12:9)
+>See public/index.html and objektwerks.App for details.
 
 Install
 -------
