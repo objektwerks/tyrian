@@ -4,6 +4,7 @@ import scala.scalajs.js.annotation.JSExportTopLevel
 
 import tyrian.*
 import tyrian.Html.*
+import scala.scalajs.js.annotation.JSExport
 
 type Model = Int
 
@@ -13,7 +14,7 @@ enum Msg:
 object Msg:
   val Empty = 0
 
-@JSExportTopLevel("TyrianApp")
+@JSExportTopLevel("App")
 object App extends TyrianApp[Msg, Model]:
   def init(flags: Map[String, String]): (Model, Cmd[Msg]) = (Msg.Empty, Cmd.Empty)
 
@@ -30,3 +31,6 @@ object App extends TyrianApp[Msg, Model]:
     )
 
   def subscriptions(model: Model): Sub[Msg] = Sub.Empty
+
+  @JSExport
+  def run(): Unit = launch("content")

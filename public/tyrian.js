@@ -1,4 +1,4 @@
 import {
-  TyrianApp
+  App
 } from "/main.js";
-TyrianApp.launch("content");
+App.run();
