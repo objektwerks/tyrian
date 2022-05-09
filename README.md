@@ -18,3 +18,16 @@ Build
 Test
 ----
 1. sbt clean test fastLinkJS
+
+Dev
+---
+>Edits are reflected in both sessions.
+1. sbt ( new session )
+2. ~ fastLinkJS
+3. npx snowpack dev ( new session )
+>See **snowpack.config.json** and [Snowpack Config](https://www.snowpack.dev/reference/configuration) for configurable options.
+
+Package
+-------
+1. sbt clean test fullLinkJS
+2. npx snowpack build ( see **build** directory )
