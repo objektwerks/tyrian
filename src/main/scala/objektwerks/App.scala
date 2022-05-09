@@ -1,10 +1,9 @@
 package objektwerks
 
-import scala.scalajs.js.annotation.JSExportTopLevel
+import scala.scalajs.js.annotation.{JSExport, JSExportTopLevel}
 
 import tyrian.*
 import tyrian.Html.*
-import scala.scalajs.js.annotation.JSExport
 
 type Model = Int
 
