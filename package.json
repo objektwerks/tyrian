@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "snabbdom": "^3.0.1"
+    "snabbdom": "^3.5.0"
   }
 }
