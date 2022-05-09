@@ -1,6 +1,6 @@
 Tyrian
 ------
->Tyrian feature tests.
+>Tyrian feature tests using Snowpack.
 
 Install
 -------
