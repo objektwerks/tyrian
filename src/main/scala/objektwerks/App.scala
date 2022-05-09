@@ -16,6 +16,9 @@ object Msg:
 
 @JSExportTopLevel("App")
 object App extends TyrianApp[Msg, Model]:
+  @JSExport
+  def run(): Unit = launch("content")
+
   def init(flags: Map[String, String]): (Model, Cmd[Msg]) = (Msg.Empty, Cmd.Empty)
 
   def update(msg: Msg, model: Model): (Model, Cmd[Msg]) =
@@ -31,6 +34,3 @@ object App extends TyrianApp[Msg, Model]:
     )
 
   def subscriptions(model: Model): Sub[Msg] = Sub.Empty
-
-  @JSExport
-  def run(): Unit = launch("content")
