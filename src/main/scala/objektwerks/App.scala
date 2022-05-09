@@ -10,7 +10,7 @@ type Model = Int
 enum Msg:
   case Increment, Decrement
 
-@JSExportTopLevel("App")
+@JSExportTopLevel("TyrianApp")
 object App extends TyrianApp[Msg, Model]:
   def init(flags: Map[String, String]): (Model, Cmd[Msg]) = (0, Cmd.Empty)
 
