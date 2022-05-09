@@ -10,9 +10,12 @@ type Model = Int
 enum Msg:
   case Increment, Decrement
 
+object Msg:
+  val Empty = 0
+
 @JSExportTopLevel("TyrianApp")
 object App extends TyrianApp[Msg, Model]:
-  def init(flags: Map[String, String]): (Model, Cmd[Msg]) = (0, Cmd.Empty)
+  def init(flags: Map[String, String]): (Model, Cmd[Msg]) = (Msg.Empty, Cmd.Empty)
 
   def update(msg: Msg, model: Model): (Model, Cmd[Msg]) =
     msg match
