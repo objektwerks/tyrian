@@ -31,3 +31,9 @@ Package
 -------
 1. sbt clean test fullLinkJS
 2. npx snowpack build ( see **build** directory )
+
+Resources
+---------
+1. [Tyrian](https://tyrian.indigoengine.io/)
+2. [Snowpack](https://snowpack.dev)
+3. [Scalajs](https://scala-js.org)
