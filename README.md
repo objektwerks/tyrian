@@ -2,6 +2,11 @@ Tyrian
 ------
 >Tyrian feature tests using Snowpack.
 
+Note
+----
+>Interesting library. Can't get past this app loading error, though:
+* Uncaught SyntaxError: The requested module './main.js' does not provide an export named 'App' (at (index):12:9)
+
 Install
 -------
 1. brew install node
