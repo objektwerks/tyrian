@@ -1,6 +1,6 @@
 Tyrian
 ------
->Tyrian feature tests using Snowpack.
+>Tyrian feature tests using Scalajs and Snowpack.
 
 Note
 ----
