@@ -7,7 +7,7 @@ organization := "objektwerks"
 version := "0.1-SNAPSHOT"
 scalaVersion := "3.2.2"
 libraryDependencies ++= Seq(
-  "io.indigoengine" %%% "tyrian" % "0.6.0",
+  "io.indigoengine" %%% "tyrian" % "0.6.1",
   "org.scalameta"   %%% "munit"  % "0.7.29" % Test
 )
 scalaJSLinkerConfig ~= { _.withModuleKind(ModuleKind.CommonJSModule) }
