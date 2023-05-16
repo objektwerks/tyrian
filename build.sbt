@@ -7,7 +7,7 @@ organization := "objektwerks"
 version := "0.1-SNAPSHOT"
 scalaVersion := "3.3.0-RC5"
 libraryDependencies ++= Seq(
-  "io.indigoengine" %%% "tyrian" % "0.6.2",
+  "io.indigoengine" %%% "tyrian" % "0.3.2", // Dont' ever upgrade!!! Massive rewrite!!!
   "org.scalameta"   %%% "munit"  % "0.7.29" % Test
 )
 scalacOptions ++= Seq(
