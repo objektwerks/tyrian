@@ -10,7 +10,9 @@ libraryDependencies ++= Seq(
   "io.indigoengine" %%% "tyrian" % "0.6.2",
   "org.scalameta"   %%% "munit"  % "0.7.29" % Test
 )
+scalacOptions ++= Seq(
+  "-Wunused:all"
+)
 scalaJSLinkerConfig ~= { _.withModuleKind(ModuleKind.CommonJSModule) }
-
 Compile / fastLinkJS / scalaJSLinkerOutputDirectory := target.value / public
 Compile / fullLinkJS / scalaJSLinkerOutputDirectory := target.value / public
