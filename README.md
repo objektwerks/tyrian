@@ -1,6 +1,6 @@
 Tyrian
 ------
->Tyrian feature tests using MUnit, Scalajs and Snowpack.
+>Tyrian feature tests usingnScalajs, Snowpack, MUnit and Scala 3.
 
 Note
 ----
