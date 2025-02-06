@@ -11,7 +11,7 @@ libraryDependencies ++= Seq(
   "org.scalameta"   %%% "munit"  % "1.1.0" % Test
 )
 scalacOptions ++= Seq(
-  "-Wall"
+  "-Wunused:all"
 )
 scalaJSLinkerConfig ~= { _.withModuleKind(ModuleKind.CommonJSModule) }
 Compile / fastLinkJS / scalaJSLinkerOutputDirectory := target.value / public
