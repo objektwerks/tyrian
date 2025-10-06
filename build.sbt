@@ -8,7 +8,7 @@ version := "0.1-SNAPSHOT"
 scalaVersion := "3.7.4-RC1"
 libraryDependencies ++= Seq(
   "io.indigoengine" %%% "tyrian" % "0.3.2", // Dont' ever upgrade!!! Massive rewrite!!!
-  "org.scalameta"   %%% "munit"  % "1.1.2" % Test
+  "org.scalameta"   %%% "munit"  % "1.2.0" % Test
 )
 scalacOptions ++= Seq(
   "-Wunused:all"
